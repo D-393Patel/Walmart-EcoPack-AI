@@ -1,0 +1,11 @@
+product_id,name,length_cm,width_cm,height_cm,weight_kg,fragility_score,current_packaging_material
+P001,Coffee Maker,25.0,20.0,30.0,3.5,4,cardboard_standard
+P002,T-shirt Large,30.0,25.0,2.0,0.3,1,plastic_mailer
+P003,Glass Vase,15.0,15.0,25.0,1.2,5,cardboard_standard
+P004,Bookshelf (Flat-pack),100.0,30.0,10.0,15.0,2,cardboard_standard
+P005,Bluetooth Speaker,10.0,8.0,12.0,0.5,3,plastic_clamshell
+P006,Toy Car Set,20.0,15.0,8.0,0.7,2,plastic_clamshell
+P007,Bedding Set (Queen),40.0,30.0,15.0,2.0,1,plastic_bag
+P008,Ceramic Mug,10.0,10.0,12.0,0.4,4,cardboard_standard
+P009,Laptop,35.0,25.0,3.0,1.8,4,cardboard_standard
+P010,Headphones,20.0,15.0,8.0,0.2,3,plastic_box

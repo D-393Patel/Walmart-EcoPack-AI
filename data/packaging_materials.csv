@@ -1,0 +1,9 @@
+material_id,name,cost_per_unit_area,strength_rating,recycled_content_percent,recyclability_score,biodegradability_score,carbon_footprint_per_unit_sqm
+cardboard_standard,Standard Corrugated Cardboard,0.02,3,10,3,2,0.15
+recycled_corrugated,Recycled Corrugated Cardboard,0.025,3,80,5,3,0.05
+plastic_mailer,Standard Plastic Mailer,0.015,2,0,2,1,0.1
+compostable_pouch,Compostable Bioplastic Pouch,0.04,2,0,1,5,0.03
+foam_insert,Standard Foam Insert,0.08,5,0,1,1,0.2
+pulp_molded,Molded Pulp Cushion,0.05,4,95,5,4,0.04
+sustainable_film,Sustainable Stretch Film (Plant-based),0.03,2,0,3,4,0.02
+standard_bubble_wrap,Standard Bubble Wrap,0.03,3,0,1,1,0.12
